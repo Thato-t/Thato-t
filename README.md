@@ -1,7 +1,7 @@
 ### Hi there👋
 
 📍 I'm Thato an aspiring web developer based in Pretoria South Africa📍.<br>
-🚨 I'm currently learning web development through FreeCodeCamp, focusing on HTML and CSS.<br>
+🚨 I'm currently learning web development through FreeCodeCamp, focusing on the front-end side....<br>
 🚧 I'm passionate about building responsve web application and improving my coding skills. I'm also exploring Java Script to expand my knowledge in front-end development.<br>
 🏁 I'm excited to contribute to open source and connect with fellow developers. Feel free to check out my projects here on Github.<br>
 
