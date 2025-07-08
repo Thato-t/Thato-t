@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm an aspiring **Full Stack Web Developer** based in Pretoria, South Africa. I have a passion for building beautiful, responsive, and user-friendly web applications. Currently, I'm leveling up my skills through FreeCodeCamp and other platforms, exploring both front-end and back-end web technologies.
+I'm an aspiring **Junior Full Stack Web Developer** based in Pretoria, South Africa. I have a passion for building beautiful, responsive, and user-friendly web applications. Currently, I'm leveling up my skills through FreeCodeCamp and other platforms, exploring both front-end and back-end web technologies.
 
 - 💡 I love tackling real-world problems with code and continuously learning new frameworks and tools.
 - 🛠️ I enjoy open source and believe in the power of collaboration and community.
