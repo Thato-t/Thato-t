@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Albanos (Thato-t)
+# 👋 Hi, I'm Albanos (Thato)
 
 Welcome to my GitHub profile!
 
